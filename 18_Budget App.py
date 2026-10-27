@@ -91,5 +91,5 @@ food.withdraw(15.89, 'restaurant and more food for dessert')
 clothing = Category('Clothing')
 food.transfer(50, clothing)
 print(food)
-li=[food]
-print(create_spend_chart(li)) 
+list=[food]
+print(create_spend_chart(list)) 
